@@ -1,0 +1,10 @@
+(module Thermal_Via_.8mm_D_.4mm_DD (layer F.Cu) (tedit 5F433247)
+  (fp_text reference REF** (at 0 14.212) (layer F.SilkS) hide
+    (effects (font (size 1.5 1.5) (thickness 0.2)))
+  )
+  (fp_text value Thermal_Via_.8mm_D_.4mm_DD (at 0 12.712) (layer F.Fab) hide
+    (effects (font (size 1.5 1.5) (thickness 0.2)))
+  )
+  (pad "" thru_hole circle (at 0 0) (size 0.8 0.8) (drill 0.4) (layers *.Cu)
+    (zone_connect 2))
+)
